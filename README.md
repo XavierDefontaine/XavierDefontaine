@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://i.imgur.com/WIYxqir.jpg"/>
+  <img align="center" width = 200px src="https://i.imgur.com/WIYxqir.jpg"/>
 
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierdefontaine&layout=compact&theme=radical" />
   <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=xavierdefontaine&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
